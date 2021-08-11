@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/maclaurin/static/css/main.a69ac0e5.chunk.css",
+    "main.js": "/maclaurin/static/js/main.07ebee1b.chunk.js",
+    "main.js.map": "/maclaurin/static/js/main.07ebee1b.chunk.js.map",
+    "runtime-main.js": "/maclaurin/static/js/runtime-main.4b5bf8d4.js",
+    "runtime-main.js.map": "/maclaurin/static/js/runtime-main.4b5bf8d4.js.map",
+    "static/js/2.a0048899.chunk.js": "/maclaurin/static/js/2.a0048899.chunk.js",
+    "static/js/2.a0048899.chunk.js.map": "/maclaurin/static/js/2.a0048899.chunk.js.map",
+    "static/js/3.b6c102fa.chunk.js": "/maclaurin/static/js/3.b6c102fa.chunk.js",
+    "static/js/3.b6c102fa.chunk.js.map": "/maclaurin/static/js/3.b6c102fa.chunk.js.map",
+    "index.html": "/maclaurin/index.html",
+    "static/css/main.a69ac0e5.chunk.css.map": "/maclaurin/static/css/main.a69ac0e5.chunk.css.map",
+    "static/js/2.a0048899.chunk.js.LICENSE.txt": "/maclaurin/static/js/2.a0048899.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b5bf8d4.js",
+    "static/js/2.a0048899.chunk.js",
+    "static/css/main.a69ac0e5.chunk.css",
+    "static/js/main.07ebee1b.chunk.js"
+  ]
+}
