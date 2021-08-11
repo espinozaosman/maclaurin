@@ -1,0 +1,13 @@
+.formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.form-container {
+    border: 3px solid black;
+    padding-top: 1%;
+    justify-content: center;
+    max-width: fit-content;
+}
